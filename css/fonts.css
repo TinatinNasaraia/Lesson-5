@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Nuosu SIL';
+    src: url('../fonts/NuosuSIL-Regular.eot');
+    src: url('../fonts/NuosuSIL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NuosuSIL-Regular.woff2') format('woff2'),
+        url('../fonts/NuosuSIL-Regular.woff') format('woff'),
+        url('../fonts/NuosuSIL-Regular.ttf') format('truetype'),
+        url('../fonts/NuosuSIL-Regular.svg#NuosuSIL-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
